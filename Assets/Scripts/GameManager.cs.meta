@@ -1,0 +1,33 @@
+fileFormatVersion: 2
+guid: 0980a66b0c3663e4fa67f9ea764f0176
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - scoreText: {instanceID: 0}
+  - chainText: {instanceID: 0}
+  - enemyTimerBar: {instanceID: 0}
+  - enemyTimerBackground: {instanceID: 0}
+  - endPanel: {instanceID: 0}
+  - endPanel_nameInput: {instanceID: 0}
+  - endPanel_scoreOutput: {instanceID: 0}
+  - endPanel_chainOutput: {instanceID: 0}
+  - endPanel_enterButton: {instanceID: 0}
+  - menuScript: {instanceID: 0}
+  - attackOrbTween: {instanceID: 0}
+  - enemy: {instanceID: 0}
+  - comboSpell: {instanceID: 0}
+  - playerAttack: {fileID: 8300000, guid: 3dd28ad7354453e41b5e5548515b2009, type: 3}
+  - enemyAttack1: {fileID: 8300000, guid: 92ebab0511d5af24cb7ebbeb84b149c2, type: 3}
+  - enemyAttack2: {fileID: 8300000, guid: 94c531e114469cb4ca93dbd39c4090c4, type: 3}
+  - enemyAttack3: {fileID: 8300000, guid: b2ce2a01b05392f4cac2a95d13d141a3, type: 3}
+  - hpLoss: {fileID: 8300000, guid: d7e0de51f4dee6942ac47f360e502367, type: 3}
+  - enemyDeath: {fileID: 8300000, guid: e6275c9923c8f1545bcf885c1afa81b3, type: 3}
+  - timerSlow: {fileID: 8300000, guid: 7a5fe7d243ef844478dff2dc6a629186, type: 3}
+  - timerMadium: {fileID: 8300000, guid: 2b3da28f78b140f4fafc08dd0885eb86, type: 3}
+  - timerFast: {fileID: 8300000, guid: aa98bc521f9868c458121c91b7bb9fc4, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
